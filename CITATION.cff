@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Torque Coherencial"
+authors:
+  - family-names: Carrasco Ozuna
+    given-names: Genaro
+    orcid: https://orcid.org/0009-0005-6358-9910
+doi: 10.5281/zenodo.17447331
+date-released: 2025-10-26
+license: CC-BY-4.0
+repository-code: https://github.com/geozunac3536-jpg/TCDS-FARO
+keywords:
+  - TCDS
+  - coherencia
+  - sincronón
+  - torque coherencial
+  - locking
+  - preregistro
