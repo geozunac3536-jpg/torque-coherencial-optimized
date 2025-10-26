@@ -1,0 +1,59 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "name": "Torque Coherencial",
+  "author": {
+    "@type": "Person",
+    "givenName": "Genaro",
+    "familyName": "Carrasco Ozuna",
+    "identifier": {
+      "@type": "PropertyValue",
+      "propertyID": "ORCID",
+      "value": "https://orcid.org/0009-0005-6358-9910"
+    }
+  },
+  "datePublished": "2025-10-26",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zenodo"
+  },
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "DOI",
+    "value": "10.5281/zenodo.17447331"
+  },
+  "license": [
+    "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "https://opensource.org/licenses/MIT",
+    "https://github.com/geozunac3536-jpg/TCDS-LICENCIAS/blob/main/LICENSE_TCDS_COMMERCIAL_1.0.txt"
+  ],
+  "keywords": [
+    "TCDS",
+    "torque coherencial",
+    "sincronón",
+    "locking",
+    "frecuencia",
+    "preregistro",
+    "coherencia emergente"
+  ],
+  "url": "https://doi.org/10.5281/zenodo.17447331",
+  "codeRepository": "https://github.com/geozunac3536-jpg/TCDS-FARO",
+  "encoding": [
+    {
+      "@type": "MediaObject",
+      "contentUrl": "Dinamica_de_Giro.pdf",
+      "encodingFormat": "application/pdf"
+    },
+    {
+      "@type": "MediaObject",
+      "contentUrl": "Frecuencia_de_Ruptura.pdf",
+      "encodingFormat": "application/pdf"
+    },
+    {
+      "@type": "MediaObject",
+      "contentUrl": "Torque_Coherencial.pdf",
+      "encodingFormat": "application/pdf"
+    }
+  ],
+  "description": "Estudio científico sobre torque coherencial y expansión TCDS. Incluye formalismo físico-matemático, predicciones falsables, KPIs, y protocolo de preregistro experimental."
+}
