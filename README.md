@@ -8,9 +8,9 @@
 
 ## 📄 Archivos incluidos
 
-- `Dinamica_de_Giro.pdf`: Comparación entre escalas de frecuencia estándar y expansión TCDS. Introduce el torque coherencial y predicciones falsables.
-- `Frecuencia_de_Ruptura.pdf`: Versión alternativa con énfasis en ruptura espectral y KPIs.
-- `Torque_Coherencial.pdf`: Formalismo físico-matemático del Sincronón como transición de fase coherente. Incluye protocolo experimental unificado.
+- `Dinamica_de_Giro.pdf`: [Comparación entre escalas de frecuencia estándar y expansión TCDS. Introduce el torque coherencial y predicciones falsables.](/Dinamica_de_Giro.pdf)
+- `Frecuencia_de_Ruptura.pdf`: [Versión alternativa con énfasis en ruptura espectral y KPIs.](/Fecuencia_de_Ruptura.pdf)
+- `Torque_Coherencial.pdf`: [Formalismo físico-matemático del Sincronón como transición de fase coherente. Incluye protocolo experimental unificado.](/Torque_Coherrncial.pdf)
 
 ## 📊 KPIs y predicciones falsables
 
