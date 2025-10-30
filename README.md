@@ -1,3 +1,4 @@
+https://doi.org/10.5281/zenodo.17450139
 # torque-coherencial# Torque Coherencial
 
 **Autor:** Genaro Carrasco Ozuna  
