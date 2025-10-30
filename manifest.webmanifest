@@ -1,0 +1,10 @@
+{
+  "name": "Torque Coherencial — TCDS",
+  "short_name": "Torque Σ",
+  "start_url": "/torque-coherencial/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#0a0a0a",
+  "lang": "es",
+  "icons": []
+}

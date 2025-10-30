@@ -1,0 +1,11 @@
+/* TEAM */
+Developer: Genaro Carrasco Ozuna
+Site: https://github.com/geozunac3536-jpg
+Twitter: https://x.com/
+
+/* THANKS */
+Stack: GitHub Pages, HTML, CSS, JS
+
+/* SITE */
+Language: es
+Standards: HTML5, CSS3, ES6
