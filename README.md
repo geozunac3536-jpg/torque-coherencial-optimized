@@ -1,6 +1,6 @@
 https://doi.org/10.5281/zenodo.17450139
 # torque-coherencial# Torque Coherencial
-
+Nodo central: https://geozunac3536-jpg.github.io/TCDS-Convergencia/
 **Autor:** Genaro Carrasco Ozuna  
 **ORCID:** [0009-0005-6358-9910](https://orcid.org/0009-0005-6358-9910)  
 **DOI Zenodo:** [10.5281/zenodo.17447331](https://doi.org/10.5281/zenodo.17447331)  
